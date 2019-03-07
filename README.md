@@ -1,1 +1,2 @@
-"# python_lesson1" 
+"台大MOOC課程 - python 商管程式設計(一)" 
+分為第一周到第五周的檔案
